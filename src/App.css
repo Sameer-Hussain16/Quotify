@@ -102,7 +102,7 @@
 
   .quotesect {
     width: 100%;
-    height: 80%;
+    height: 80vh;
   }
 
   .nextsect {
@@ -110,7 +110,7 @@
     flex-direction: row;
     border: 8px solid #08081A;
     width: 100%;
-    height: 20%;
+    height: 20vh;
     border-top: 0;
   }
 
